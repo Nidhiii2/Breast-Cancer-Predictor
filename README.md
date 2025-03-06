@@ -11,11 +11,11 @@ The **Breast Cancer Predictor** is a machine learning-powered web app built usin
 
 ## 🖼️ Screenshot
 ### 🔹 Dashboard View & Predictions
-![Breast Cancer Predictor]![Screenshot (53)](https://github.com/user-attachments/assets/83687b70-7673-4fd5-a220-b72ed43fc891)
+[Screenshot (53)](https://github.com/user-attachments/assets/83687b70-7673-4fd5-a220-b72ed43fc891)
 
 
 ### 🔹 Radar Chart
-![Radar Chart](./assets/radar_chart.png)![newplot](https://github.com/user-attachments/assets/22fff4c8-4842-4ed5-9c31-04c7e8e62d4e)
+(./assets/radar_chart.png)![newplot](https://github.com/user-attachments/assets/22fff4c8-4842-4ed5-9c31-04c7e8e62d4e)
 
 
 ## 🛠️ Tech Stack
