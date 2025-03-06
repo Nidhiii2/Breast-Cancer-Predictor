@@ -26,6 +26,10 @@ The **Breast Cancer Predictor** is a machine learning-powered web app built usin
 - **Plotly** (Data Visualization)
 - **HTML & CSS** (Custom Styling)
 
+## 🔗 Live Demo
+🌐 **Try the App Here:** [Live Breast Cancer Predictor](https://breast-cancer-predictor-qbaf.onrender.com/)
+
+
 ## 📂 Folder Structure
 ```
 📂 Breast-Cancer-Predictor
@@ -65,6 +69,10 @@ The prediction model is based on **Logistic Regression**, trained on the **Wisco
 - **Feature Scaling**: StandardScaler
 - **Train-Test Split**: 80-20 ratio
 - **Accuracy**: **92%** on test data
+
+### 📊 Dataset Source
+📌 **[Breast Cancer Wisconsin Data (Kaggle)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)**
+
 
 ## 📬 Contact
 👤 **Nidhi Saroj**  
