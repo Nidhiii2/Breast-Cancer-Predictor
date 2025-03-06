@@ -1,9 +1,5 @@
 # 🎗️ Breast Cancer Predictor
 
-![GitHub Stars](https://img.shields.io/github/stars/your-repo.svg?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/your-repo.svg?style=social)
-![GitHub License](https://img.shields.io/github/license/your-repo)
-
 ## 📌 Overview
 The **Breast Cancer Predictor** is a machine learning-powered web app built using **Streamlit**. It predicts whether a breast mass is **benign** or **malignant** based on cytology measurements. The app assists medical professionals in preliminary diagnosis using a trained **Logistic Regression model**.
 
