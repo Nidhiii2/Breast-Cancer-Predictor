@@ -9,7 +9,7 @@ The **Breast Cancer Predictor** is a machine learning-powered web app built usin
 ✅ **Machine Learning Model** – Predicts cancer type with probability scores.  
 ✅ **Custom Styling** – Designed with CSS for a modern UI.  
 
-## 🖼️ Screenshot
+## 🖼️ Screenshots
 ### 🔹 Dashboard View & Predictions
 ![Screenshot (53)](https://github.com/user-attachments/assets/31fbeed8-d7e6-4f88-ba66-46d05c5bc85d)
 
