@@ -76,6 +76,6 @@ The prediction model is based on **Logistic Regression**, trained on the **Wisco
 
 ## 📬 Contact
 👤 **Nidhi Saroj**  
-📧 [Email](nidhisaroj964@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nidhi-saroj-705b362a6/)  
+📧 [nidhisaroj964@gmail.com](nidhisaroj964@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nidhi-saroj-705b362a6/)  
 
 🌟 **If you found this useful, don't forget to star ⭐ the repo!**
