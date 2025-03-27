@@ -50,7 +50,7 @@ The **Breast Cancer Predictor** is a machine learning-powered web app built usin
 ## 🔧 Installation & Usage
 1️⃣ **Clone the repository**
 ```bash
-git clone https://github.com/your-username/Breast-Cancer-Predictor.git
+git clone https://github.com/Nidhiii2/Breast-Cancer-Predictor.git
 cd Breast-Cancer-Predictor
 ```
 
